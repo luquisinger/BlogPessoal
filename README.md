@@ -1,13 +1,2 @@
-  {/* 
-          Na rota “/”, a estrutura a ser renderizada é:
-          <PaginaPadrao>
-            <Inicio />
-          </PaginaPadrao>
-
-          Na rota “/sobremim”, a estrutura a ser renderizada é:
-          <PaginaPadrao>
-            <SobreMim />
-          </PaginaPadrao>
-          
-          
-          */}
+Projeto realizado utilizando a biblioteca React.
+link: https://blog-pessoal-rouge.vercel.app/
